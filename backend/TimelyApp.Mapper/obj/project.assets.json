@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TimelyApp.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TimelyApp.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimelyApp.Dto.dll": {}
+        }
+      },
+      "TimelyApp.Form/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TimelyApp.Form.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimelyApp.Form.dll": {}
+        }
+      },
+      "TimelyApp.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TimelyApp.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimelyApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimelyApp.Dto/1.0.0": {
+      "type": "project",
+      "path": "../TimelyApp.Dto/TimelyApp.Dto.csproj",
+      "msbuildProject": "../TimelyApp.Dto/TimelyApp.Dto.csproj"
+    },
+    "TimelyApp.Form/1.0.0": {
+      "type": "project",
+      "path": "../TimelyApp.Form/TimelyApp.Form.csproj",
+      "msbuildProject": "../TimelyApp.Form/TimelyApp.Form.csproj"
+    },
+    "TimelyApp.Model/1.0.0": {
+      "type": "project",
+      "path": "../TimelyApp.Model/TimelyApp.Model.csproj",
+      "msbuildProject": "../TimelyApp.Model/TimelyApp.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TimelyApp.Dto >= 1.0.0",
+      "TimelyApp.Form >= 1.0.0",
+      "TimelyApp.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Emersic\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Mapper\\TimelyApp.Mapper.csproj",
+      "projectName": "TimelyApp.Mapper",
+      "projectPath": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Mapper\\TimelyApp.Mapper.csproj",
+      "packagesPath": "C:\\Users\\Emersic\\.nuget\\packages\\",
+      "outputPath": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Mapper\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Emersic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Dto\\TimelyApp.Dto.csproj": {
+              "projectPath": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Dto\\TimelyApp.Dto.csproj"
+            },
+            "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Form\\TimelyApp.Form.csproj": {
+              "projectPath": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Form\\TimelyApp.Form.csproj"
+            },
+            "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Model\\TimelyApp.Model.csproj": {
+              "projectPath": "C:\\Alan\\Dev\\C#\\TimelyApp\\backend\\TimelyApp.Model\\TimelyApp.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

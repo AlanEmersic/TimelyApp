@@ -1,0 +1,12 @@
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\bin\Debug\net6.0\TimelyApp.Model.deps.json
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\bin\Debug\net6.0\TimelyApp.Model.dll
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\bin\Debug\net6.0\TimelyApp.Model.pdb
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.csproj.AssemblyReference.cache
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.AssemblyInfoInputs.cache
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.AssemblyInfo.cs
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.csproj.CoreCompileInputs.cache
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.dll
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\refint\TimelyApp.Model.dll
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\TimelyApp.Model.pdb
+C:\Alan\Dev\C#\TimelyApp\TimelyApp.Model\obj\Debug\net6.0\ref\TimelyApp.Model.dll

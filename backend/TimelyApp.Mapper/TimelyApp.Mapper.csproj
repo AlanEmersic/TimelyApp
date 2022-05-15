@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimelyApp.Dto\TimelyApp.Dto.csproj" />
+    <ProjectReference Include="..\TimelyApp.Form\TimelyApp.Form.csproj" />
+    <ProjectReference Include="..\TimelyApp.Model\TimelyApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>
