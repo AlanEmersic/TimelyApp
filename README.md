@@ -1,6 +1,6 @@
 # `Timely`
 
-Project was created with Angular, Spring Boot and PostgreSQL
+Project was created with Angular, ASP.NET Core and PostgreSQL
 
 ## `Angular`
 
@@ -13,7 +13,7 @@ Project was created with Angular, Spring Boot and PostgreSQL
 - Open [http://localhost:4200/](http://localhost:4200/) to view it in the browser.
 
 
-## `Spring Boot & PostgreSQL`
+## `ASP.NET Core & PostgreSQL`
 
 ### `Steps`
 
@@ -21,7 +21,5 @@ Project was created with Angular, Spring Boot and PostgreSQL
 
 - run `schema.sql` script
 
-- configure application.properties:
-  - `spring.datasource.url`=jdbc:postgresql://localhost:5432/timely  
-  - `spring.datasource.username`=user
-  - `spring.datasource.password`=pass
+- configure appsettings.json ConnectionStrings:
+  - `"TimelyDbContext"`: "Host=localhost;Port=5432;Database=timely;User Id=postgres;Password=pass;"
