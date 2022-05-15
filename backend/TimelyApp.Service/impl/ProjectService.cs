@@ -28,6 +28,12 @@ namespace TimelyApp.Service.impl
             dbContext.SaveChanges();
         }
 
+        public void UpdateProject(Project project)
+        {
+            dbContext.Projects.Update(project);
+            dbContext.SaveChanges();
+        }
+
         public void DeleteProject(int id)
         {
             Project project = dbContext.Projects.FirstOrDefault(p => p.Id == id);

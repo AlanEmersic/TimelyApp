@@ -9,6 +9,8 @@ namespace TimelyApp.Service
 
         void SaveProject(Project project);
 
+        void UpdateProject(Project project);
+
         void DeleteProject(int id);
     }
 }

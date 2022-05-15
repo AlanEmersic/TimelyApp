@@ -46,7 +46,7 @@ namespace TimelyApp.Facade.impl
             if (project == null)
                 return;
 
-            projectService.SaveProject(projectFormMapper.mapUpdate(project, projectForm));
+            projectService.UpdateProject(projectFormMapper.mapUpdate(project, projectForm));
         }
     }
 }
