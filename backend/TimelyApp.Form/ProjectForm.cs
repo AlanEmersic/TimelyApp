@@ -10,8 +10,7 @@ namespace TimelyApp.Form
         [Required]
         public string StartTime { get; set; }
 
-        [Required]
-        //[DisplayFormat(DataFormatString = "yyyy-MM-dd HH:mm:ss")]
+        [Required]        
         public string EndTime { get; set; }
     }
 }

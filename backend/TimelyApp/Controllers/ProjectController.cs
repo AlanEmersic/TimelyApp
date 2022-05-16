@@ -2,7 +2,6 @@
 using TimelyApp.Facade;
 using TimelyApp.Dto;
 using TimelyApp.Form;
-using Microsoft.AspNetCore.Cors;
 
 namespace TimelyApp.Controllers
 {

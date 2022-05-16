@@ -5,6 +5,7 @@ namespace TimelyApp.Service
     public interface IProjectService
     {
         Project GetProject(int id);
+
         ICollection<Project> GetProjects();
 
         void SaveProject(Project project);
