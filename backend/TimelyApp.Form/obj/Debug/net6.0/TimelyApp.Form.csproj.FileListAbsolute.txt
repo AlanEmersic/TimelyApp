@@ -10,3 +10,15 @@ C:\Alan\Dev\C#\TimelyApp\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.dll
 C:\Alan\Dev\C#\TimelyApp\TimelyApp.Form\obj\Debug\net6.0\refint\TimelyApp.Form.dll
 C:\Alan\Dev\C#\TimelyApp\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.pdb
 C:\Alan\Dev\C#\TimelyApp\TimelyApp.Form\obj\Debug\net6.0\ref\TimelyApp.Form.dll
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\bin\Debug\net6.0\TimelyApp.Form.deps.json
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\bin\Debug\net6.0\TimelyApp.Form.dll
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\bin\Debug\net6.0\TimelyApp.Form.pdb
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.csproj.AssemblyReference.cache
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.AssemblyInfoInputs.cache
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.AssemblyInfo.cs
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.csproj.CoreCompileInputs.cache
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.dll
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\refint\TimelyApp.Form.dll
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\TimelyApp.Form.pdb
+C:\Alan\Dev\C#\TimelyApp\backend\TimelyApp.Form\obj\Debug\net6.0\ref\TimelyApp.Form.dll
